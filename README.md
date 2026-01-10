@@ -67,12 +67,6 @@
 - Email messaging systems, domain/hosting management
 - Social media account creation & professional management
 
-## 📊 GitHub Stats
-![Shaheed's Stats](https://github-readme-stats.vercel.app/api?username=shaheedsvnr&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedsvnr&layout=compact&theme=radical&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=shaheedsvnr&theme=radical)
-
 ---
 
 👨‍💻 **Full Stack Developer** building scalable business automation | React/Node.js | Azure | POS/Billing Expert  
