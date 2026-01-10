@@ -1,12 +1,11 @@
 # Hi, I'm Shaheed! 👨‍💻
 
 **Full Stack MERN Developer | Billing, POS & Accounting Systems Expert | 3+ Years Production Deployments**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheed-m/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledomains&logoColor=white)](https://shaheed.great-site.net/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheed_dmx)
-[![Email](https://img.shields.io/badge/Email-shaheedsvnr@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheedsvnr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%2097411%2037517?style=for-the-badge&logo=phone&logoColor=white)](tel:+919741137517)
+[![Email](https://img.shields.io/badge/Email-shaheedsvnr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheedsvnr@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%2097411%2037517-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+919741137517)
 
 **Mangalore, India** | Open for Remote Full Stack Roles & Freelance POS/Billing Projects
 
