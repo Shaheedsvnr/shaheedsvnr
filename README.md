@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledomains&logoColor=white)](https://shaheed.great-site.net/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheed_dmx)
 [![Email](https://img.shields.io/badge/Email-shaheedsvnr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheedsvnr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%2097411%2037517-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+919741137517)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919741137517?text=Hello%20I%20would%20like%20to%20know%20more%20about%20your%20services)
 
 
 **Mangalore, India** | Open for Remote Full Stack Roles & Freelance POS/Billing Projects
@@ -73,4 +73,4 @@
 
 👨‍💻 **Full Stack Developer** building scalable business automation | React/Node.js | Azure | POS/Billing Expert  
 💼 **Open to collaboration** on production-grade MERN applications  
-📧 **Connect**: shaheedsvnr@gmail.com | [+91 97411 37517](tel:+919741137517)
+📧 **Connect**: shaheedsvnr@gmail.com | [+91 97411 37517](https://wa.me/919741137517?text=Hello%20I%20would%20like%20to%20know%20more%20about%20your%20services)
